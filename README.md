@@ -112,17 +112,6 @@ Predict whether a new passenger would survive.
 
 ---
 
-## Project Structure
-
-```
-Titanic_Survivor_Prediction/
-│
-├── Titanic_Survivor_Prediction.ipynb
-├── README.md
-└── titanic_model.pkl (optional)
-```
-
----
 
 ## Libraries Required
 
